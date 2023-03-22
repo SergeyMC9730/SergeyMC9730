@@ -4,6 +4,6 @@
 
 - 🔭 I’m currently working on multiple projects like Jackbox API or Tunnel OS.
 - 💬 Ask me about some C stuff
-- 📫 How to reach me: `dogotrigger#0355`
+- 📫 How to reach me: `dogotrigger_#0451`
 - ⚡ Fun fact: **I'm the**
 
